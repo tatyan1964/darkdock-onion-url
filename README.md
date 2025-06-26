@@ -70,3 +70,5 @@ Save your recovery details, such as a mnemonic phrase or a password reset method
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/temp/save.webp" alt="DarkDock Login" style="max-width: 100%;"></a>
 
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/temp/beta.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
+
+Update:  06/26/2025 09-10-36 Just to let you know, the link is active again.
